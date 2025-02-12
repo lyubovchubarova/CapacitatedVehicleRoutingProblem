@@ -1,17 +1,17 @@
 # CapacitatedVehicleRoutingProblem
 
 SET A - Method: 2-opt
-  mean_deviation=8.89
-  mean_deviation_sa=10.72
+- mean_deviation=8.89
+- mean_deviation_sa=10.72
 SET A - Method: 3-opt
-  mean_deviation=12.62
-  mean_deviation_sa=10.61
+- mean_deviation=12.62
+- mean_deviation_sa=10.61
 SET A - Method: Or-opt
-  mean_deviation=4.72
-  mean_deviation_sa=5.96
+- mean_deviation=4.72
+- mean_deviation_sa=5.96
 SET A - Method: Swap
-  mean_deviation=24.65
-  mean_deviation_sa=23.95
+- mean_deviation=24.65
+- mean_deviation_sa=23.95
 -------------
 SET M - Method: 2-opt
   mean_deviation=18.34
