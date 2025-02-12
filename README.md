@@ -1,8 +1,5 @@
 # CapacitatedVehicleRoutingProblem
 
-## Best results
-
-
 SET A - Method: 2-opt
   mean_deviation=8.89
   mean_deviation_sa=10.72
